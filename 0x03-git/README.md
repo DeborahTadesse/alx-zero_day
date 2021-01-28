@@ -1,0 +1,1 @@
+This project helps to get to know git very well.
