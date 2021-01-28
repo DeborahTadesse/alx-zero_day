@@ -1,0 +1,1 @@
+The objective of this project is to familiarize students with the basics of emacs
